@@ -1,5 +1,5 @@
 public enum cellState {
-  IsBlack,
-  IsWhite,
-  none
+    IsBlack,
+    IsWhite,
+    none
 }
